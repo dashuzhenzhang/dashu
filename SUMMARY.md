@@ -4,7 +4,7 @@
 
 ## The Company
 
-* [Vision and Values](the-company/vision-and-values.md)
+* [方法论：如何找到好伴侣](the-company/fang-fa-lun-ru-he-zhao-dao-hao-ban-lv.md)
 * [Meet the Team!](the-company/meet-the-team.md)
 
 ## The Formal Stuff
